@@ -1,6 +1,19 @@
 Sesion 2:
     - Adicion de archivos
         - git add (nombre del archivo conjuntamente con su extension)
-        - git add *
+        - git add *         (adiciona todos los archivos)
     - Status del repositorio (commits, agregaciones, las ramas)
-        - git status 
+        - git status
+    - Commit, nos permite agrupar un conjunto de cambios
+        - git commit -m ("mensaje para el commit")
+    - Enlazar nuestro repositorio remoto al repositorio local
+        - git remote add origin (url del repositorio)
+        - git remote -v         (pemite ver el repositorio remoto al que estamos enlazados)
+    - Subir commits al repositorio remoto
+        - git push
+    - Log (Observar los commits realizados)
+        - git log
+    - Restauracion de un archivo
+        - git restore --staged (nombre del archivo a restaurar)
+    - Navegar a un commit anterior (CUIDADO CON ESTE COMANDO)
+        - git reset --hard (id del commit al que quieren navegar)
