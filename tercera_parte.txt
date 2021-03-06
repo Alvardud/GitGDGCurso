@@ -5,3 +5,8 @@ Sesion 3:
         - git branch
     - Dirigirnos a una correspondiente
         - git checkout (nombre de la rama)
+    - Eliminar ramas
+        - git branch -d (nombre de la rama)         (eliminar rama del repositorio local)
+        - git push --delete origin (nombre de la rama)                  (eliminar rama del repositorio remoto)
+    - Fusionar ramas
+        - git merge (nombre de la rama donde vienen los cambios) 
