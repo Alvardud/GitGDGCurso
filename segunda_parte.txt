@@ -1,0 +1,6 @@
+Sesion 2:
+    - Adicion de archivos
+        - git add (nombre del archivo conjuntamente con su extension)
+        - git add *
+    - Status del repositorio (commits, agregaciones, las ramas)
+        - git status 
