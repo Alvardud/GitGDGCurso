@@ -1,4 +1,4 @@
 Sesion 4:
-    - Actualizar codigo desde mi repositorio remoto al local
-        - git pull
-    - Solucion de conflictos de fusion
+    - You can accept or decline this invitation. You can also head over to https://github.com/Alvardud/GitGDGCurso to check out the repository or visit @Alvardud to learn a bit more about them.
+
+This invitation will expire in 7 days.
