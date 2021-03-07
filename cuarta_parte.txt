@@ -1,3 +1,4 @@
 Sesion 4:
-    - Actualizar el repositorio local desde el remoto
-        
+    - Actualizar nada, nada de nada
+        - git pull
+    - Solucion de conflictos de fusion
