@@ -1,2 +1,10 @@
 Sesion 5:
     - Git desde VS Code
+    - Extensiones para VS Code
+        - Git History
+        - Git Graph
+        - GitHub Pull Request
+    - GitKraken
+    - GitHub Desktop
+    
+        
