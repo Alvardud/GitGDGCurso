@@ -2,3 +2,6 @@ Sesion 4:
     - Actualizar codigo desde mi repositorio remoto al local
         - git pull
     - Solucion de conflictos de fusion
+        - Current change (codigo actual)
+        - Incoming change (codigo del repositorio remoto)
+    - Pull request (adicionar codigo en un repositorio en el cual no somos colaboradores)
