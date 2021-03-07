@@ -1,4 +1,4 @@
 Sesion 4:
-    - You can accept or decline this invitation. You can also head over to https://github.com/Alvardud/GitGDGCurso to check out the repository or visit @Alvardud to learn a bit more about them.
+   ivan 
 
 This invitation will expire in 7 days.
